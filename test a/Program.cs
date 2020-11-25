@@ -7,6 +7,9 @@ namespace test_a
         static void Main(string[] args)
         {
             Console.WriteLine("Salut les A2");
+
+            Console.Read();
+
         }
     }
 }
